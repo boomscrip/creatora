@@ -76,7 +76,7 @@ self.__precacheManifest = [
     "url": "/creatora/static/css/1.fc4f92b6.chunk.css"
   },
   {
-    "revision": "8bfc115b8f5d9320f4e6b4885eff7366",
+    "revision": "b675961648e16ee26d1c1a8c55101fe1",
     "url": "/creatora/index.html"
   }
 ];
