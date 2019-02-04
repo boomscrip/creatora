@@ -1,7 +1,7 @@
 {
-  "main.css": "/creatora/static/css/main.b2740779.chunk.css",
-  "main.js": "/creatora/static/js/main.222fce53.chunk.js",
-  "main.js.map": "/creatora/static/js/main.222fce53.chunk.js.map",
+  "main.css": "/creatora/static/css/main.464e0810.chunk.css",
+  "main.js": "/creatora/static/js/main.bfbadce8.chunk.js",
+  "main.js.map": "/creatora/static/js/main.bfbadce8.chunk.js.map",
   "static/css/1.6ca688c8.chunk.css": "/creatora/static/css/1.6ca688c8.chunk.css",
   "static/js/1.eb9f7cf5.chunk.js": "/creatora/static/js/1.eb9f7cf5.chunk.js",
   "static/js/1.eb9f7cf5.chunk.js.map": "/creatora/static/js/1.eb9f7cf5.chunk.js.map",
@@ -34,10 +34,10 @@
   "static/media/Mimaki.jpg": "/creatora/static/media/Mimaki.9e35434d.jpg",
   "static/media/VHF.jpg": "/creatora/static/media/VHF.1d65c111.jpg",
   "static/media/Teckwin.jpg": "/creatora/static/media/Teckwin.a7d0c751.jpg",
-  "static/media/slick-theme.css": "/creatora/static/media/slick.f97e3bbf.svg",
-  "static/css/main.b2740779.chunk.css.map": "/creatora/static/css/main.b2740779.chunk.css.map",
+  "static/media/slick-theme.css": "/creatora/static/media/slick.b7c9e1e4.woff",
+  "static/css/main.464e0810.chunk.css.map": "/creatora/static/css/main.464e0810.chunk.css.map",
   "static/css/1.6ca688c8.chunk.css.map": "/creatora/static/css/1.6ca688c8.chunk.css.map",
   "index.html": "/creatora/index.html",
-  "precache-manifest.e8593f57d613cceec1224ee9e430edbc.js": "/creatora/precache-manifest.e8593f57d613cceec1224ee9e430edbc.js",
+  "precache-manifest.7d5bfa8496742ba92a6055d352c000e5.js": "/creatora/precache-manifest.7d5bfa8496742ba92a6055d352c000e5.js",
   "service-worker.js": "/creatora/service-worker.js"
 }
