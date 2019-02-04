@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/creatora/static/media/image6.c8a571db.png"
   },
   {
-    "revision": "9406aeed15fb526626f8",
-    "url": "/creatora/static/css/main.f231b92e.chunk.css"
+    "revision": "b7357e74f06d3a7b957f",
+    "url": "/creatora/static/css/main.cf131f4e.chunk.css"
   },
   {
     "revision": "f97e3bbf73254b0112091d0192f17aec",
@@ -80,8 +80,8 @@ self.__precacheManifest = [
     "url": "/creatora/static/media/image5.72bb95d9.png"
   },
   {
-    "revision": "9406aeed15fb526626f8",
-    "url": "/creatora/static/js/main.9406aeed.chunk.js"
+    "revision": "b7357e74f06d3a7b957f",
+    "url": "/creatora/static/js/main.b7357e74.chunk.js"
   },
   {
     "revision": "0d2e4113324b2f50369f8bb101604562",
@@ -140,10 +140,6 @@ self.__precacheManifest = [
     "url": "/creatora/static/media/Teckwin.a7d0c751.jpg"
   },
   {
-    "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
-    "url": "/creatora/static/media/slick.b7c9e1e4.woff"
-  },
-  {
     "revision": "ced611daf7709cc778da928fec876475",
     "url": "/creatora/static/media/slick.ced611da.eot"
   },
@@ -152,11 +148,15 @@ self.__precacheManifest = [
     "url": "/creatora/static/media/slick.d41f55a7.ttf"
   },
   {
+    "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
+    "url": "/creatora/static/media/slick.b7c9e1e4.woff"
+  },
+  {
     "revision": "eb9f7cf57472aa5a8574",
     "url": "/creatora/static/css/1.6ca688c8.chunk.css"
   },
   {
-    "revision": "125c0f0c67a290e82732d210184fec73",
+    "revision": "39960aceab1029a739829c48df3eb163",
     "url": "/creatora/index.html"
   }
 ];
