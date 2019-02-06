@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/creatora/static/media/logosslider4.c8104291.png"
   },
   {
-    "revision": "ffaf83074573cc73d5bd",
+    "revision": "d5843aa16a1902fb426c",
     "url": "/creatora/static/css/main.c0ef5db1.chunk.css"
   },
   {
@@ -128,8 +128,8 @@ self.__precacheManifest = [
     "url": "/creatora/static/media/logosslider3.28b95f6b.png"
   },
   {
-    "revision": "ffaf83074573cc73d5bd",
-    "url": "/creatora/static/js/main.ffaf8307.chunk.js"
+    "revision": "d5843aa16a1902fb426c",
+    "url": "/creatora/static/js/main.d5843aa1.chunk.js"
   },
   {
     "revision": "0d3439b72845e6fe17474e153e7b8c13",
@@ -256,7 +256,7 @@ self.__precacheManifest = [
     "url": "/creatora/static/css/1.bbcfdc23.chunk.css"
   },
   {
-    "revision": "bf02d1cd5b49a5c9377fd7b4121be42f",
+    "revision": "4ef3482c20d6d11d67334a1fdcacaacb",
     "url": "/creatora/index.html"
   }
 ];
