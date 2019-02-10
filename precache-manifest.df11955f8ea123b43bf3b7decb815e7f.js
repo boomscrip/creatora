@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "92be6693160eba7c8f0b08722993b20a",
-    "url": "/creatora/static/media/portfolio_7_1.92be6693.png"
+    "revision": "ebdab9e0a12d49f651992ecbcb28dd98",
+    "url": "/creatora/static/media/portfolio_7_2.ebdab9e0.png"
   },
   {
-    "revision": "bd8c08e552a07e707a37",
-    "url": "/creatora/static/css/main.e6c5b1ff.chunk.css"
+    "revision": "0637f047d7863ba68370",
+    "url": "/creatora/static/css/main.2e9bf98c.chunk.css"
   },
   {
-    "revision": "50640c8d593b2539bd485fe9ce77516d",
-    "url": "/creatora/static/media/fon1.50640c8d.jpg"
+    "revision": "94fa2aa99e46c6fa295c73157f83e975",
+    "url": "/creatora/static/media/Calibri-Light.94fa2aa9.ttf"
   },
   {
     "revision": "5e3e879ef648cfcdbac0",
@@ -424,12 +424,12 @@ self.__precacheManifest = [
     "url": "/creatora/static/media/portfolio_6_7.913742c8.png"
   },
   {
-    "revision": "bd8c08e552a07e707a37",
-    "url": "/creatora/static/js/main.bd8c08e5.chunk.js"
+    "revision": "92be6693160eba7c8f0b08722993b20a",
+    "url": "/creatora/static/media/portfolio_7_1.92be6693.png"
   },
   {
-    "revision": "ebdab9e0a12d49f651992ecbcb28dd98",
-    "url": "/creatora/static/media/portfolio_7_2.ebdab9e0.png"
+    "revision": "0637f047d7863ba68370",
+    "url": "/creatora/static/js/main.0637f047.chunk.js"
   },
   {
     "revision": "594aff1e71e1387ed4d70e534d9343b8",
@@ -840,11 +840,23 @@ self.__precacheManifest = [
     "url": "/creatora/static/media/portfolio_12_2.e65a308c.jpg"
   },
   {
+    "revision": "50640c8d593b2539bd485fe9ce77516d",
+    "url": "/creatora/static/media/fon1.50640c8d.jpg"
+  },
+  {
+    "revision": "e378218ad8f4ab68ff09baac049941d8",
+    "url": "/creatora/static/media/Calibri-Light.e378218a.woff"
+  },
+  {
+    "revision": "77b7940fc2450982f75f4be5bc24062e",
+    "url": "/creatora/static/media/Calibri-Light.77b7940f.eot"
+  },
+  {
     "revision": "5e3e879ef648cfcdbac0",
     "url": "/creatora/static/css/1.893f7335.chunk.css"
   },
   {
-    "revision": "52df9662f22e3f6714ae78f052504487",
+    "revision": "b932395455a6d5134872b8fa23f67d63",
     "url": "/creatora/index.html"
   }
 ];
