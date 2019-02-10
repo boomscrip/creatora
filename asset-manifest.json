@@ -1,7 +1,7 @@
 {
-  "main.css": "/creatora/static/css/main.2e9bf98c.chunk.css",
-  "main.js": "/creatora/static/js/main.0637f047.chunk.js",
-  "main.js.map": "/creatora/static/js/main.0637f047.chunk.js.map",
+  "main.css": "/creatora/static/css/main.8ee8d328.chunk.css",
+  "main.js": "/creatora/static/js/main.c72f726e.chunk.js",
+  "main.js.map": "/creatora/static/js/main.c72f726e.chunk.js.map",
   "static/css/1.893f7335.chunk.css": "/creatora/static/css/1.893f7335.chunk.css",
   "static/js/1.5e3e879e.chunk.js": "/creatora/static/js/1.5e3e879e.chunk.js",
   "static/js/1.5e3e879e.chunk.js.map": "/creatora/static/js/1.5e3e879e.chunk.js.map",
@@ -212,10 +212,10 @@
   "static/media/portfolio_11_6.jpg": "/creatora/static/media/portfolio_11_6.8ea51024.jpg",
   "static/media/portfolio_12_1.jpg": "/creatora/static/media/portfolio_12_1.39f6dd8c.jpg",
   "static/media/portfolio_12_2.jpg": "/creatora/static/media/portfolio_12_2.e65a308c.jpg",
-  "static/media/style.css": "/creatora/static/media/Calibri-Light.94fa2aa9.ttf",
+  "static/media/style.css": "/creatora/static/media/Calibri.65a81404.ttf",
   "static/css/1.893f7335.chunk.css.map": "/creatora/static/css/1.893f7335.chunk.css.map",
-  "static/css/main.2e9bf98c.chunk.css.map": "/creatora/static/css/main.2e9bf98c.chunk.css.map",
+  "static/css/main.8ee8d328.chunk.css.map": "/creatora/static/css/main.8ee8d328.chunk.css.map",
   "index.html": "/creatora/index.html",
-  "precache-manifest.df11955f8ea123b43bf3b7decb815e7f.js": "/creatora/precache-manifest.df11955f8ea123b43bf3b7decb815e7f.js",
+  "precache-manifest.589216815cf2cfa5f97c103c88753d74.js": "/creatora/precache-manifest.589216815cf2cfa5f97c103c88753d74.js",
   "service-worker.js": "/creatora/service-worker.js"
 }
