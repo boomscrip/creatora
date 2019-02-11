@@ -1,7 +1,7 @@
 {
   "main.css": "/creatora/static/css/main.732e0ccb.chunk.css",
-  "main.js": "/creatora/static/js/main.681f37f2.chunk.js",
-  "main.js.map": "/creatora/static/js/main.681f37f2.chunk.js.map",
+  "main.js": "/creatora/static/js/main.e3485fbf.chunk.js",
+  "main.js.map": "/creatora/static/js/main.e3485fbf.chunk.js.map",
   "static/css/1.f9b84a65.chunk.css": "/creatora/static/css/1.f9b84a65.chunk.css",
   "static/js/1.bfa57d65.chunk.js": "/creatora/static/js/1.bfa57d65.chunk.js",
   "static/js/1.bfa57d65.chunk.js.map": "/creatora/static/js/1.bfa57d65.chunk.js.map",
@@ -233,9 +233,9 @@
   "static/media/portfolio_12_7.jpg": "/creatora/static/media/portfolio_12_7.c3f8b817.jpg",
   "static/media/portfolio_12_8.jpg": "/creatora/static/media/portfolio_12_8.3e0569e0.jpg",
   "static/media/style.css": "/creatora/static/media/Calibri.65a81404.ttf",
-  "static/css/main.732e0ccb.chunk.css.map": "/creatora/static/css/main.732e0ccb.chunk.css.map",
   "static/css/1.f9b84a65.chunk.css.map": "/creatora/static/css/1.f9b84a65.chunk.css.map",
+  "static/css/main.732e0ccb.chunk.css.map": "/creatora/static/css/main.732e0ccb.chunk.css.map",
   "index.html": "/creatora/index.html",
-  "precache-manifest.968ff580944149bc92154103756e3ef0.js": "/creatora/precache-manifest.968ff580944149bc92154103756e3ef0.js",
+  "precache-manifest.3d5cbfc53746bc0a62dbc9896c0cf95e.js": "/creatora/precache-manifest.3d5cbfc53746bc0a62dbc9896c0cf95e.js",
   "service-worker.js": "/creatora/service-worker.js"
 }
