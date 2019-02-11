@@ -924,12 +924,12 @@ self.__precacheManifest = [
     "url": "/creatora/static/media/fon1.50640c8d.jpg"
   },
   {
-    "revision": "0d1199ac38c522c8d8268671c4023473",
-    "url": "/creatora/static/media/Calibri.0d1199ac.eot"
-  },
-  {
     "revision": "d3ac1e99f9d4d116b7c54940e2da470b",
     "url": "/creatora/static/media/Calibri.d3ac1e99.woff"
+  },
+  {
+    "revision": "0d1199ac38c522c8d8268671c4023473",
+    "url": "/creatora/static/media/Calibri.0d1199ac.eot"
   },
   {
     "revision": "2a9b6ea816ccf1df6dcd",
