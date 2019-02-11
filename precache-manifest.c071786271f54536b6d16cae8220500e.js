@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/creatora/static/media/portfolio_7_3.594aff1e.png"
   },
   {
-    "revision": "9f5714a070ccab21b6ba",
-    "url": "/creatora/static/css/main.b0f08c8b.chunk.css"
+    "revision": "b39d3e92adf0f56713f6",
+    "url": "/creatora/static/css/main.9684a890.chunk.css"
   },
   {
     "revision": "65a8140460241d2c13056a46354bfe03",
@@ -468,8 +468,8 @@ self.__precacheManifest = [
     "url": "/creatora/static/media/portfolio_7_2.ebdab9e0.png"
   },
   {
-    "revision": "9f5714a070ccab21b6ba",
-    "url": "/creatora/static/js/main.9f5714a0.chunk.js"
+    "revision": "b39d3e92adf0f56713f6",
+    "url": "/creatora/static/js/main.b39d3e92.chunk.js"
   },
   {
     "revision": "2ff49bdb13f20f44c3d080f64020e978",
@@ -936,7 +936,7 @@ self.__precacheManifest = [
     "url": "/creatora/static/css/1.d330ed89.chunk.css"
   },
   {
-    "revision": "c74871c07c508c4bbd2a6e5cc9e37164",
+    "revision": "de5429ab8658c9d4f002a6ea999951e1",
     "url": "/creatora/index.html"
   }
 ];
