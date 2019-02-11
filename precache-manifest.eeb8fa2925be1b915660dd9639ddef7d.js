@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/creatora/static/media/portfolio_7_3.594aff1e.png"
   },
   {
-    "revision": "b39d3e92adf0f56713f6",
+    "revision": "5605551321a92373bc6c",
     "url": "/creatora/static/css/main.9684a890.chunk.css"
   },
   {
@@ -468,8 +468,8 @@ self.__precacheManifest = [
     "url": "/creatora/static/media/portfolio_7_2.ebdab9e0.png"
   },
   {
-    "revision": "b39d3e92adf0f56713f6",
-    "url": "/creatora/static/js/main.b39d3e92.chunk.js"
+    "revision": "5605551321a92373bc6c",
+    "url": "/creatora/static/js/main.56055513.chunk.js"
   },
   {
     "revision": "2ff49bdb13f20f44c3d080f64020e978",
@@ -924,19 +924,19 @@ self.__precacheManifest = [
     "url": "/creatora/static/media/fon1.50640c8d.jpg"
   },
   {
-    "revision": "d3ac1e99f9d4d116b7c54940e2da470b",
-    "url": "/creatora/static/media/Calibri.d3ac1e99.woff"
-  },
-  {
     "revision": "0d1199ac38c522c8d8268671c4023473",
     "url": "/creatora/static/media/Calibri.0d1199ac.eot"
+  },
+  {
+    "revision": "d3ac1e99f9d4d116b7c54940e2da470b",
+    "url": "/creatora/static/media/Calibri.d3ac1e99.woff"
   },
   {
     "revision": "2a9b6ea816ccf1df6dcd",
     "url": "/creatora/static/css/1.d330ed89.chunk.css"
   },
   {
-    "revision": "de5429ab8658c9d4f002a6ea999951e1",
+    "revision": "f947a571ff4a7f8728107b27b45ebdbf",
     "url": "/creatora/index.html"
   }
 ];

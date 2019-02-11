@@ -1,7 +1,7 @@
 {
   "main.css": "/creatora/static/css/main.9684a890.chunk.css",
-  "main.js": "/creatora/static/js/main.b39d3e92.chunk.js",
-  "main.js.map": "/creatora/static/js/main.b39d3e92.chunk.js.map",
+  "main.js": "/creatora/static/js/main.56055513.chunk.js",
+  "main.js.map": "/creatora/static/js/main.56055513.chunk.js.map",
   "static/css/1.d330ed89.chunk.css": "/creatora/static/css/1.d330ed89.chunk.css",
   "static/js/1.2a9b6ea8.chunk.js": "/creatora/static/js/1.2a9b6ea8.chunk.js",
   "static/js/1.2a9b6ea8.chunk.js.map": "/creatora/static/js/1.2a9b6ea8.chunk.js.map",
@@ -236,6 +236,6 @@
   "static/css/main.9684a890.chunk.css.map": "/creatora/static/css/main.9684a890.chunk.css.map",
   "static/css/1.d330ed89.chunk.css.map": "/creatora/static/css/1.d330ed89.chunk.css.map",
   "index.html": "/creatora/index.html",
-  "precache-manifest.c071786271f54536b6d16cae8220500e.js": "/creatora/precache-manifest.c071786271f54536b6d16cae8220500e.js",
+  "precache-manifest.eeb8fa2925be1b915660dd9639ddef7d.js": "/creatora/precache-manifest.eeb8fa2925be1b915660dd9639ddef7d.js",
   "service-worker.js": "/creatora/service-worker.js"
 }
