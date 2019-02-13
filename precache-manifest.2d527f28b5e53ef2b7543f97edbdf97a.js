@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/creatora/static/media/portfolio_7_22.6eaa4aa7.png"
   },
   {
-    "revision": "5f9fee54f394b5c61a98",
+    "revision": "2bb0c04c92e6775139fe",
     "url": "/creatora/static/css/main.ef5011a2.chunk.css"
   },
   {
@@ -544,8 +544,8 @@ self.__precacheManifest = [
     "url": "/creatora/static/media/portfolio_7_21.afa69cd1.png"
   },
   {
-    "revision": "5f9fee54f394b5c61a98",
-    "url": "/creatora/static/js/main.5f9fee54.chunk.js"
+    "revision": "2bb0c04c92e6775139fe",
+    "url": "/creatora/static/js/main.2bb0c04c.chunk.js"
   },
   {
     "revision": "e0b0a6428538c0678f1f44b5c05d8d63",
@@ -1008,6 +1008,10 @@ self.__precacheManifest = [
     "url": "/creatora/static/media/Calibri.0d1199ac.eot"
   },
   {
+    "revision": "92078a27adb3d46ba8089c452cd70bf6",
+    "url": "/creatora/static/media/fa-brands-400.92078a27.eot"
+  },
+  {
     "revision": "3d19aa4959c59e6d93d44f3bd90aef14",
     "url": "/creatora/static/media/fa-brands-400.3d19aa49.woff2"
   },
@@ -1016,20 +1020,16 @@ self.__precacheManifest = [
     "url": "/creatora/static/media/fa-brands-400.c4ed0a1f.woff"
   },
   {
-    "revision": "7cc3813fd8210dc22ed2cc16891d0c6d",
-    "url": "/creatora/static/media/fa-light-300.7cc3813f.woff2"
-  },
-  {
     "revision": "21964f74b00a1599fae9d0a993e9eaba",
     "url": "/creatora/static/media/fa-brands-400.21964f74.ttf"
   },
   {
-    "revision": "563925f7d15a0f5ab8d6b764b5b4645e",
-    "url": "/creatora/static/media/fa-light-300.563925f7.woff"
+    "revision": "7cc3813fd8210dc22ed2cc16891d0c6d",
+    "url": "/creatora/static/media/fa-light-300.7cc3813f.woff2"
   },
   {
-    "revision": "92078a27adb3d46ba8089c452cd70bf6",
-    "url": "/creatora/static/media/fa-brands-400.92078a27.eot"
+    "revision": "d04e7c7a32ec3df6ee6cad38f99e4f2c",
+    "url": "/creatora/static/media/fa-light-300.d04e7c7a.eot"
   },
   {
     "revision": "9f0e797dfe03b14c92021c6e3d2ed501",
@@ -1040,16 +1040,20 @@ self.__precacheManifest = [
     "url": "/creatora/static/media/fa-light-300.c183e1e5.ttf"
   },
   {
-    "revision": "c530c69d2821c1ab9202edfeee81f085",
-    "url": "/creatora/static/media/fa-regular-400.c530c69d.eot"
+    "revision": "563925f7d15a0f5ab8d6b764b5b4645e",
+    "url": "/creatora/static/media/fa-light-300.563925f7.woff"
+  },
+  {
+    "revision": "f45b750ae42cc175e2273a6eee86c2b5",
+    "url": "/creatora/static/media/fa-regular-400.f45b750a.woff"
   },
   {
     "revision": "bd42a2f17bdd2cdd2a40bd46f69224cf",
     "url": "/creatora/static/media/fa-regular-400.bd42a2f1.woff2"
   },
   {
-    "revision": "d04e7c7a32ec3df6ee6cad38f99e4f2c",
-    "url": "/creatora/static/media/fa-light-300.d04e7c7a.eot"
+    "revision": "c530c69d2821c1ab9202edfeee81f085",
+    "url": "/creatora/static/media/fa-regular-400.c530c69d.eot"
   },
   {
     "revision": "3b91afa2af4e700731a28a552bc0cb16",
@@ -1060,35 +1064,31 @@ self.__precacheManifest = [
     "url": "/creatora/static/media/fa-regular-400.c7a40b90.ttf"
   },
   {
-    "revision": "f45b750ae42cc175e2273a6eee86c2b5",
-    "url": "/creatora/static/media/fa-regular-400.f45b750a.woff"
-  },
-  {
     "revision": "1056b521827390708dd3c2e140eb8533",
     "url": "/creatora/static/media/fa-solid-900.1056b521.eot"
-  },
-  {
-    "revision": "1824ad4c98679821970e3e7e47a1aa02",
-    "url": "/creatora/static/media/fa-solid-900.1824ad4c.woff"
   },
   {
     "revision": "61f505c6569bacdd2b629dfd332a2cef",
     "url": "/creatora/static/media/fa-solid-900.61f505c6.woff2"
   },
   {
-    "revision": "1e39699e99c5592e9f70990a735de2a1",
-    "url": "/creatora/static/media/fa-solid-900.1e39699e.ttf"
-  },
-  {
     "revision": "eecf03cf0ea4708f88157736f6cac817",
     "url": "/creatora/static/media/fa-regular-400.eecf03cf.svg"
+  },
+  {
+    "revision": "1824ad4c98679821970e3e7e47a1aa02",
+    "url": "/creatora/static/media/fa-solid-900.1824ad4c.woff"
+  },
+  {
+    "revision": "1e39699e99c5592e9f70990a735de2a1",
+    "url": "/creatora/static/media/fa-solid-900.1e39699e.ttf"
   },
   {
     "revision": "befc5a865c684913a0bb",
     "url": "/creatora/static/css/1.72a1dfd2.chunk.css"
   },
   {
-    "revision": "ca1629dcbad45a2f6e9e5a494fe7abfd",
+    "revision": "27979ebd4f2cfcc7651d7d43906c98c5",
     "url": "/creatora/index.html"
   }
 ];
