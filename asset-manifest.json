@@ -1,7 +1,7 @@
 {
-  "main.css": "/creatora/static/css/main.d14f2d7f.chunk.css",
-  "main.js": "/creatora/static/js/main.b1935a7f.chunk.js",
-  "main.js.map": "/creatora/static/js/main.b1935a7f.chunk.js.map",
+  "main.css": "/creatora/static/css/main.c1cc9b2e.chunk.css",
+  "main.js": "/creatora/static/js/main.e39f4445.chunk.js",
+  "main.js.map": "/creatora/static/js/main.e39f4445.chunk.js.map",
   "static/css/1.cc74e030.chunk.css": "/creatora/static/css/1.cc74e030.chunk.css",
   "static/js/1.3027de8d.chunk.js": "/creatora/static/js/1.3027de8d.chunk.js",
   "static/js/1.3027de8d.chunk.js.map": "/creatora/static/js/1.3027de8d.chunk.js.map",
@@ -271,12 +271,12 @@
   "static/media/Article_16.png": "/creatora/static/media/Article_16.0519587b.png",
   "static/media/Article_17.png": "/creatora/static/media/Article_17.e1aae775.png",
   "static/media/Article_18.png": "/creatora/static/media/Article_18.ffd13297.png",
-  "static/media/style.css": "/creatora/static/media/Calibri.65a81404.ttf",
+  "static/media/style.css": "/creatora/static/media/Calibri.0d1199ac.eot",
   "static/media/fontawesome-all.css": "/creatora/static/media/fa-solid-900.b2010731.svg",
   "static/media/image.png": "/creatora/static/media/image.3adb6226.png",
+  "static/css/main.c1cc9b2e.chunk.css.map": "/creatora/static/css/main.c1cc9b2e.chunk.css.map",
   "static/css/1.cc74e030.chunk.css.map": "/creatora/static/css/1.cc74e030.chunk.css.map",
-  "static/css/main.d14f2d7f.chunk.css.map": "/creatora/static/css/main.d14f2d7f.chunk.css.map",
   "index.html": "/creatora/index.html",
-  "precache-manifest.e08c8c6caebecb7c534ddf2ed6083ee6.js": "/creatora/precache-manifest.e08c8c6caebecb7c534ddf2ed6083ee6.js",
+  "precache-manifest.69c193d04f71208bc226727c41c82938.js": "/creatora/precache-manifest.69c193d04f71208bc226727c41c82938.js",
   "service-worker.js": "/creatora/service-worker.js"
 }
